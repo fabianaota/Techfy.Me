@@ -1,2 +1,3 @@
-# TechfyMe
-Repositório para as atualizações e serviços do projeto TechfyMe.
+## Techfy.Me
+
+#### Projeto integrador do curso Mobile Android da Digital House Brasil
